@@ -1,0 +1,4 @@
+Source  -jar- %jarfile%.jar 
+Source .auto
+Process 
+%whendone% say hello_world! %_% no.seprate
