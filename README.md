@@ -1,2 +1,3 @@
 # Joke-package-Exemod
-Joke package
+Exemod; How to use 
+
